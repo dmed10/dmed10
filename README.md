@@ -9,3 +9,5 @@ SKILLS:
   * Scikit-learn
   * Team work
   * ML
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmed10)](https://github.com/dmed10/github-readme-stats) -->
