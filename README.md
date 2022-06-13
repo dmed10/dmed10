@@ -5,7 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-- 📫 How to reach me: you can reach me via email: mdenis179@gmail.com
+
+- mdenis179@gmail.com
 - LinkedIn https://www.linkedin.com/in/denis-medvedev-/
 
 <h3 align="left">Languages and Tools:</h3>
