@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm Denis Medvedev
 
 - 🌱 I’m currently learning to be a data scientist at BloomTech
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
