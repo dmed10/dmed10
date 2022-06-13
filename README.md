@@ -1,6 +1,9 @@
 ### 👋 Hi there, I'm Denis Medvedev
 
 - 🌱 I’m currently learning to be a data scientist at BloomTech
+- Passionate about video games and sports
+- Born in Russia
+- Dream of making my own start up
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
