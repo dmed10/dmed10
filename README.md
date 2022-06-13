@@ -3,12 +3,6 @@
 - 🌱 I’m currently learning to be a data scientist at BloomTech
 - 📫 How to reach me: you can reach me via email: mdenis179@gmail.com or LinkedIn https://www.linkedin.com/in/denis-medvedev-/
 
-SKILLS:
-  * Pandas
-  * Numpy
-  * Scikit-learn
-  * Team work
-  * ML
 
 
 <h3 align="left">Languages and Tools:</h3>
